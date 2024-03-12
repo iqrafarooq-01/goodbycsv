@@ -23,7 +23,7 @@
                         <div class="form-text">LUpload CSV file</div>
                     </div>
                 </div>
-                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="submit" class="btn btn-primary">Submit</button> 
             </form>
 
             {{-- <div class="max-w-7xl mx-auto p-6 lg:p-8">
